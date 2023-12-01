@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@500&display=swap");
+.LogoFinished {
+  font-family: "Rubik", sans-serif;
+}
+.linksStyled,
+.AuthlinksStyled,
+.HeadingStyled,
+.ParaStyled {
+  font-family: "Rubik", sans-serif;
+  font-weight: 200;
+}
